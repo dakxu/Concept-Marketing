@@ -1,4 +1,5 @@
 # Concept-Marketing
+Concept brand project imagining a new Starbucks product — Aura Energy, a functional energy drink — backed by market research, competitor analysis, and brand creative for a fictional India launch.
 
 # Starbucks-Aura-Energy-Market-Analysis
 A market research and go-to-market strategy analysis for **Starbucks Aura Energy**, a proposed functional energy drink launch in India, built on **Statista Consumer Insights survey data** covering 1,631 energy drink consumers and benchmarked against 24,170 general Indian respondents.
