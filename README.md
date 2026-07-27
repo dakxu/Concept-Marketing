@@ -7,7 +7,7 @@ A market research and go-to-market strategy analysis for **Starbucks Aura Energy
 ## 🎨 Brand Poster
 Promotional poster created for the Starbucks Aura Energy launch concept.
 
-<img width="1920" height="3240" alt="Tropical Logo Brand Kit (6) copy" src="https://github.com/user-attachments/assets/ebaaeaea-f421-4b18-b353-6abfaf9b0d71" />
+<img width="1920" height="3240" alt="Tropical Logo Brand Kit (1) (1)" src="https://github.com/user-attachments/assets/3f2c4de8-d303-4f9f-8838-2a98cc1bae37" />
 
 
 ## 📊 Overview
