@@ -7,7 +7,7 @@ A market research and go-to-market strategy analysis for **Starbucks Aura Energy
 ## 🎨 Brand Poster
 Promotional poster created for the Starbucks Aura Energy launch concept.
 
-<img width="1536" height="2592" alt="Image" src="https://github.com/user-attachments/assets/3e52e438-32d4-4ae6-bde7-c08dde77c646" />
+<img width="1344" height="2268" alt="Copy of Copy of Tropical Logo Brand Kit (1)" src="https://github.com/user-attachments/assets/f520135f-34a8-4c3f-adba-fe3ce8bc5502" />
 
 ## 📊 Overview
 This project transforms raw consumer survey data and market share estimates into a decision-ready strategic analysis — covering audience profiling, competitive benchmarking, and positioning — to evaluate whether Starbucks should enter India's energy drink category.
